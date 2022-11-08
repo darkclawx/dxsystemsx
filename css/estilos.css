@@ -6,4 +6,16 @@
     --gris:#707d9d;
     --blanco:#fff;
     --negro:#000;
+
+    /* Fuente Principal */
+    --fuentePrincipal:'Gothic A1', sans-serif;
+}
+
+html{
+    font-family: var(--fuentePrincipal);
+}
+
+
+.titulo{
+    text-align: center;
 }
